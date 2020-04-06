@@ -6,4 +6,4 @@ layout: home
 
 ---
 
-![title-image](/assets/images/title.01.png){:.title-image}
+![title-image](assets/images/title.01.png){:.title-image}
