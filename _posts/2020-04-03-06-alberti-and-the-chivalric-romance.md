@@ -1,6 +1,6 @@
 ---
 layout: post-custom
-title:  "6. Alberti and the Chivalric Romance"
+title:  "6. The Chivalric Romance"
 date:   2020-04-03 16:25:46 +0200
 categories: [The Inhuman]
 ---
